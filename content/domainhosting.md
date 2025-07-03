@@ -1,5 +1,6 @@
 +++
-title = 'Domainhosting'
+title = 'Domain Hosting'
 date = 2025-07-03T08:36:56Z
-draft = true
+draft = false
+Use type = "page"
 +++

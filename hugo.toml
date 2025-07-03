@@ -1,5 +1,6 @@
 baseURL = "https://dev.sohwatt.com.sg/"
 languageCode = 'en-us'
 title = 'Sohwatt LLP'
+theme = "sohwatt"
 enableRobotsTXT = true
 uglyURLs = false
