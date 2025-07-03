@@ -1,5 +1,5 @@
-baseURL = 'https://dev.sohwatt.com.sg/'
+baseURL = "https://dev.sohwatt.com.sg/"
 languageCode = 'en-us'
-title = 'Sohwatt LLP
+title = 'Sohwatt LLP'
 enableRobotsTXT = true
-uglyURLs = false'
+uglyURLs = false
